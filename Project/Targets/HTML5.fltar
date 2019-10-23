@@ -17,7 +17,7 @@
   MasterStylesheetOverride="false"
   TopicToolbarSkin="/Project/Skins/Toolbar.flskn"
   ShowMadCapBacklink="true"
-  OutputFolder="C:\Users\sanket.kumbharkhane\Desktop\Output 1"
+  OutputFolder="C:\Users\sanket.kumbharkhane\Desktop\Output2"
   OutputFile="[%=General.CompanyName%]"
   GetLatestBeforeCompile="true">
   <PrintedOutput
